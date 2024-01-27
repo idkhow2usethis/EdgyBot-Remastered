@@ -1,0 +1,15 @@
+{
+	"CURRENT_VERSION_OUT": 6.68,
+
+	"SCRIPT_INFO": "We're back, did u miss us? 😏",
+
+	"EDGEPLUS_MSG": "If your purchase was accepted on the payment platform, click the blue EdgePlus link then refresh this page after 5 seconds 🙏",
+
+	"DISABLED_USERS": [],
+
+	"ACTIVE": true,
+
+	"RUN_THIS": "console.log('server_accessed')",
+	
+	"CLASS_PRICE": 1
+}
